@@ -1,1 +1,63 @@
-
+- http://argumentation.bplaced.net/arguana/data (X)
+    - 文件解压失败，打不开文件
+- https://arxiv.org/abs/2308.16884 (X)
+    - 阅读理解，知识问答
+- http://nlp.cis.unimelb.edu.au/resources/cqadupstack/ (X)
+    - QA
+- https://www.sustainablefinance.uzh.ch/en/research/climate-fever.html (X)
+    - 检索结果是推理的结果
+- https://github.com/iai-group/DBpedia-Entity/ (√)
+- https://fever.ai/ (X)
+    - 包括事实验证，应该有推理
+- https://mcgill-nlp.github.io/FaithDial/ (X)
+    - 对话？
+- https://arxiv.org/abs/2204.03025(X)
+    - QA
+- https://sites.google.com/view/fiqa/(X)
+    - QA
+- https://github.com/project-miracl/hagrid(X)
+    - generative information-seeking scenarios
+- https://hotpotqa.github.io/(X)
+    - QA
+- https://huggingface.co/datasets/dwzhu/LongEmbed(X)
+    - QA and summary
+- https://github.com/lauramanor/legal_summarization(X)
+    - summary
+- https://project-miracl.github.io/(X)
+    - QA
+- https://huggingface.co/datasets/facebook/mlqa(X)
+    - QA
+- https://github.com/McGill-NLP/MLQuestions(X)
+    - QA
+- https://microsoft.github.io/msmarco/(X)
+    - QA
+- https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3119-4(X)
+    - QA
+- https://arxiv.org/abs/2402.03216 (※)
+    - 比起dataset，感觉论文本身的方法不错
+- https://www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/ (√)
+- https://ai.google.com/research/NaturalQuestions(X)
+    - QA
+- https://metatext.io/datasets/narrativeqa(X)
+    - https://github.com/simonepri/datasets-knowledge-embedding
+        - 感觉是在寻找语句之间的逻辑关系
+- https://huggingface.co/datasets/xhluca/publichealth-qa(X)
+    - QA
+- https://arxiv.org/abs/2404.06347(X)
+    - Reasoning
+- https://allenai.org/data/scidocs (※)
+    - leverage information on inter-document relatedness，can be used in document recommandation
+- https://github.com/allenai/scifact(X)
+    - 观点，推理
+- https://mcgill-nlp.github.io/statcan-dialogue-dataset/(X)
+    - 对话
+- https://ir.nist.gov/covidSubmit/index.html (?)
+    - 很复杂的一个测试方法的样子，先存疑
+- https://mcgill-nlp.github.io/topiocqa/(X)
+    - QA
+- https://touche.webis.de/clef20/touche20-web/argument-retrieval-for-controversial-questions(X)
+    - 推理
+- https://arxiv.org/abs/2305.09249(X)
+    - **Product Question Answering**
+- https://huggingface.co/datasets/google/xquad(X)
+    - QA
